@@ -1,1 +1,3 @@
 adding file to repo
+
+nitish download  git clone
